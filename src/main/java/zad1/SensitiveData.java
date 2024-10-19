@@ -27,14 +27,6 @@ public class SensitiveData implements Serializable {
         return password;
     }
 
-    public void setPesel(String pesel) {
-        this.pesel = pesel;
-    }
-
-    public void setPassword(String password) {
-        this.password = password;
-    }
-
     @Override
     public String toString() {
         return "{" +
