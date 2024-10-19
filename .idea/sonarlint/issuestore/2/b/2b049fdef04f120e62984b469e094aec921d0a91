@@ -1,0 +1,14 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8«‹ê¤ª2
+g	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8«‹ê¤ª2
+g	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8«‹ê¤ª2
+g	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8«‹ê¤ª2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áŸºÑ8¬‹ê¤ª2
+S
+java:S6437"6Revoke and change this password, as it is compromised.(ì†ô8¹‹ê¤ª2
+>
+java:S5542"Use a secure padding scheme.(÷ÈÝÿøÿÿÿÿ8º‹ê¤ª2
+S
+java:S6437""6Revoke and change this password, as it is compromised.(ì†ô8»‹ê¤ª2
+>
+java:S5542%"Use a secure padding scheme.(÷ÈÝÿøÿÿÿÿ8¼‹ê¤ª2

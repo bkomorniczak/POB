@@ -1,0 +1,15 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.( ¶ìúûÿÿÿÿ8Š¬ª¤ª2
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¶Ûï•úÿÿÿÿ8‘¬ª¤ª2
+0
+java:S1220""Move this file to a named package.
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÊÚ³¬
+S
+java:S6437"6Revoke and change this password, as it is compromised.(ì†ô8Á®ª¤ª2
+>
+java:S5542"Use a secure padding scheme.(÷ÈÝÿøÿÿÿÿ8Ê®ª¤ª2
+S
+java:S6437"6Revoke and change this password, as it is compromised.(ì†ô8ì®ª¤ª2
+>
+java:S5542"Use a secure padding scheme.(÷ÈÝÿøÿÿÿÿ8ï®ª¤ª2
