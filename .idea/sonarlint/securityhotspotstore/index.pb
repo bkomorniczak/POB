@@ -15,3 +15,6 @@ U
 %src/main/java/zad1/SensitiveData.java,7/6/76d76021859b3c0109e2e1fb02de3970877d2c28
 L
 src/main/java/zad1/Main.java,7/d/7d73dbcb1cf1d23b9c719c5c7f15b9a3e86ba63c
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
