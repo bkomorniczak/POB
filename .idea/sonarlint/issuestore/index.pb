@@ -18,3 +18,7 @@ L
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+K
+src/main/java/zad3/Add.java,f/f/ff7151eab3e3c141246cffbdd4f644643a878313
+O
+src/test/java/zad3/AddTest.java,f/e/fea27d17bdadcb7fa538d8d39b1bab3f0089d0b7

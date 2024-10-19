@@ -1,4 +1,5 @@
-package zad1;
+import zad1.CustomSerializationUtil;
+import zad1.SensitiveData;
 
 public class Main {
     public static void main(String[] args) {
