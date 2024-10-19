@@ -1,8 +1,10 @@
 import zad1.CustomSerializationUtil;
 import zad1.SensitiveData;
+import zad2.DateSaver;
 
 public class Main {
     public static void main(String[] args) {
+//        Zadanie 1
         try {
             SensitiveData data = new SensitiveData("Jan Kowalski", "12345678901", "SuperSecretPassword");
             String filePath = "src/main/resources/sensitiveData.ser";
@@ -16,5 +18,10 @@ public class Main {
         } catch (Exception e) {
             e.printStackTrace();
         }
+//        Zadanie 2
+        DateSaver dateSaver = new DateSaver();
+        dateSaver.writeDate();
+        dateSaver.readDate();
+
     }
 }
